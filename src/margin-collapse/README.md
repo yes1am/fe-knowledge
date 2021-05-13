@@ -1,6 +1,7 @@
 ## margin 重叠
 
-[MDN 链接](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+- [MDN 链接](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+- [codesandbox 链接](https://codesandbox.io/s/margin-chongdie-sfyyo?file=/src/demo3.jsx)
 
 margin 重叠**只会发生在竖直方向上**，而不会发生在水平方向上。
 
