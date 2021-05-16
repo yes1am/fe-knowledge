@@ -6,8 +6,8 @@
 
 1. [BFC](src/bfc)
 2. [margin 重叠](src/margin-collapse)
-3. [两栏布局](src/two-column-layout)
-4. [三栏布局](src/three-column-layout)
+3. [两列布局](src/two-column-layout)
+4. [三列布局](src/three-column-layout)
 
 ## 算法
 
