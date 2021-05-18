@@ -12,6 +12,7 @@
 ## JS
 
 1. [大整数及大整数的数学运算](src/plus-big-number)
+2. [浮点数相加](src/plus-float-number)
 
 ## 算法
 
