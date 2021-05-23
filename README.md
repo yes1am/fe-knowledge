@@ -39,3 +39,7 @@
    1. [前端安全系列（一）：如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 4. CSRF
    1. [前端安全系列（二）：如何防止CSRF攻击？](https://tech.meituan.com/2018/10/11/fe-security-csrf.html)
+
+## TypeScript
+
+1. [interface 和 type 有什么区别](src/interface-type-diff)
