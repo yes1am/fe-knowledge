@@ -48,3 +48,6 @@ n ^ 2 + 2n + 1
 (n + 1) ^ 2
 ```
 因此: `1 + 3 + ... + (2n - 1) = n ^ 2` 成立.
+
+![image](https://user-images.githubusercontent.com/25051945/119348635-b8d2b180-bccf-11eb-92af-2f3aa4503d7f.png)
+
