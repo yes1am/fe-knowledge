@@ -22,6 +22,7 @@
 2. [二分查找](src/binary-search)
 3. [数组转树](src/array-to-tree)
 4. [数学/等差数列](src/math-arithmetic-sequence)
+5. [数学归纳法](src/math-inductive-method)
 
 ## React
 
