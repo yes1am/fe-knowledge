@@ -21,6 +21,7 @@
 1. [数组排序](src/array-sort)
 2. [二分查找](src/binary-search)
 3. [数组转树](src/array-to-tree)
+4. [数学/等差数列](src/math-arithmetic-sequence)
 
 ## React
 
