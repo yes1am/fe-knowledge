@@ -45,3 +45,7 @@
 ## TypeScript
 
 1. [interface 和 type 有什么区别](src/interface-type-diff)
+
+## 性能
+
+1. [Performance API](src/performance-api)
