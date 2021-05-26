@@ -16,6 +16,7 @@
 3. [a == 1 && a == 2 && a == 3 以及 a === 1 && a === 2 && a === 3](https://juejin.cn/post/6844903725442531341)
 4. [Axios 如何实现兼容浏览器与 Nodejs](src/axios)
 5. [Proxy](src/proxy)
+6. [Symbol](src/symbol)
 
 ## 算法
 
