@@ -25,6 +25,7 @@
 3. [数组转树](src/array-to-tree)
 4. [数学/等差数列](src/math-arithmetic-sequence)
 5. [数学归纳法](src/math-inductive-method)
+6. [判断一个数是否为 2 的 n 次方](src/is-two-power)
 
 ## React
 
