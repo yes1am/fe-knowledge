@@ -28,6 +28,7 @@
 6. [判断一个数是否为 2 的 n 次方](src/is-two-power)
 7. [算法复杂度](src/algorithm-complexity)
 8. [斐波那契数列](src/fibonacci)
+9. [对数](src/logarithm)
 
 ## React
 
