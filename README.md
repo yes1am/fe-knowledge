@@ -26,6 +26,8 @@
 4. [数学/等差数列](src/math-arithmetic-sequence)
 5. [数学归纳法](src/math-inductive-method)
 6. [判断一个数是否为 2 的 n 次方](src/is-two-power)
+7. [算法复杂度](src/algorithm-complexity)
+8. [斐波那契数列](src/fibonacci)
 
 ## React
 
