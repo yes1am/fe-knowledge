@@ -41,6 +41,7 @@
 3. React Key
    1. [为什么 React 组件要声明 key](https://time.geekbang.org/dailylesson/detail/100028475)
 4. [React Router 原理](src/react-router)
+5. [React Redux 原理](src/react-redux)
 
 ## WEB 安全
 
