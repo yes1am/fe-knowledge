@@ -298,3 +298,4 @@ Source maps 很消耗性能. 你确定需要它吗？
 2. webpack使用-详解DllPlugin:https://segmentfault.com/a/1190000016567986###
 3. 如何提升 Webpack 打包速度: https://zhuanlan.zhihu.com/p/145012279
 4. SPEEDING UP WEBPACK: https://stephencook.dev/blog/speeding-up-webpack/
+5. 彻底解决Webpack打包慢的问题: https://segmentfault.com/a/1190000006087638
