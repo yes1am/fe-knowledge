@@ -19,6 +19,7 @@
 4. [Axios 如何实现兼容浏览器与 Nodejs](src/axios)
 5. [Proxy](src/proxy)
 6. [Symbol](src/symbol)
+7. [sum(1)(2)(3)(4).valueOf() === 10](src/sum-method)
 
 ## 算法
 
