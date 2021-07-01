@@ -20,6 +20,7 @@
 5. [Proxy](src/proxy)
 6. [Symbol](src/symbol)
 7. [sum(1)(2)(3)(4).valueOf() === 10](src/sum-method)
+8. [如何解决栈溢出问题](src/maximum-call-stack)
 
 ## 算法
 
